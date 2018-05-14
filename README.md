@@ -4,7 +4,7 @@
 
 Build an amazing company website and a chance to receive $500 for the winner.
 
-This is good practice to work with not having complete information from the client and making decisions on your own based on “creative direction”. It is also a way for you to practice building professional company websites. The rest is up to you to research and figure out. Use this as a challenge to learn how to work with loose project requirements from a client, or go off on your own and create your dream company website. Just make sure you share it with the community. You can see the project requirements of the client here: 
+This is good practice to work with not having complete information from the client and making decisions on your own based on “creative direction”. It is also a way for you to practice building professional company websites. The rest is up to you to research and figure out. Use this as a challenge to learn how to work with loose project requirements from a client, or go off on your own and create your dream company website. Just make sure you share it with the community. Either way, by the end of it you will have a new website to add to your portfolio to show off to future employers. You can see the project requirements of the client here: 
 
 Here is the old company website that they want to update: http://thrivingcities.com/
 They said that they don't mind if some fields are left blank or with Lorem ipsum text so that things can be filled in later.
