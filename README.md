@@ -2,7 +2,7 @@
 
 ## What is the Challenge?
 
-Build an amazing company website page and a chance to receive $500 for the winner.
+Build an amazing one page company website and a chance to receive $500 for the winner.
 
 This is good practice to work with not having complete information from the client and making decisions on your own based on “creative direction”. It is also a way for you to practice building professional website page. The rest is up to you to research and figure out. Use this as a challenge to learn how to work with loose project requirements from a client, or go off on your own and create your dream company website. Just make sure you share it with the community. Either way, by the end of it you will have a new website to add to your portfolio to show off to future employers. You can see the project requirements of the client here: 
 
