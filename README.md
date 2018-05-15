@@ -13,7 +13,7 @@ So it is not nearly as big of a project as it looks. **It just needs to be a sim
 
 2) They have said that they don't care what it looks like. They just want it to look nice, interesting and be well commented.
 
-3) The organization is really having a hard time coming up with a requirements document for this web project. They just want the company's website/logo and content from their older website. It seems like the organization doesn't know exactly what they want, but they want a web developer to help them figure it out. They want to see something creative and sleek, but they have no idea what they want it to look like. This could be a really great opportunity for you to be as unique and creative as they want to try to impress the client.
+3) The organization is really having a hard time coming up with a requirements document for this web project. It seems like the organization doesn't know exactly what they want, but they want a web developer to help them figure it out. They want to see something creative and sleek, but they have no idea what they want it to look like. This could be a really great opportunity for you to be as unique and creative as they want to try to impress the client.
 
 4) The website should have a Memphis, TN theme (where the company is located). Memphis is a city in Tennessee, USA. The events will be in Memphis, Tennessee, USA so it might be a good idea for you to have Memphis themes on the website (Elvis Presley, Martin Luther King Jr, Justin Timberlake, Lecrae, etc. People from Memphis, TN, USA basically.)
 
