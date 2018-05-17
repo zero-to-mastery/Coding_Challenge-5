@@ -19,7 +19,7 @@ So it is not nearly as big of a project as it looks. **It just needs to be a sim
 
 ### The Rules Are:
 
-1. You have until May 31st at 11:59pm EST to submit your website (using Github pages to put it online. If you don't know how to do that, check out the lecture in the Git+Github section of the course). You will have to submit the link to the #coding-challenge Discord group with the following message:  "-challenge github.com/<username>/<repo>". The bot will listen for the command in any channel its in and will reply with "thanks for your submission" if it succeeded. Submissions not following the above rules will not be judged. 
+1. You have until May 31st at 11:59pm EST to submit your website (using Github pages to put it online. If you don't know how to do that, check out the lecture in the Git+Github section of the course). You will have to submit the link to the #coding-challenge Discord group with the following message:  "-challenge github.com/<username>/<repo>" (you can also include other links like heroku). The bot will listen for the command in any channel its in and will reply with "thanks for your submission" if it succeeded. Submissions not following the above rules will not be judged. 
 
 2. Use whatever tools you have as developers (google, friends, Discord, programming buddy etc...) but I will not be offering any help with this challenge. Just like a developer you must solve a problem and build something that will be challenging. Nobody will hold your hand during the job so we want to experience that by figuring it all out on your own!
 
