@@ -2,7 +2,7 @@
 Build an event page for a real company!
 
 ## Coding Challenge Submissions
-The wonderful submissions from some of the Zero-to-Mastery students on the fifth coding challenge. There are some great submissions:
+The wonderful submissions from some of the Zero-to-Mastery students on the fifth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
 
 huntershinn#7115
 https://memphis-local-events.herokuapp.com/
