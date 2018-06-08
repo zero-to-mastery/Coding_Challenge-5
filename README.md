@@ -1,4 +1,122 @@
 # Coding_Challenge-5
+Build an event page for a real company!
+
+## Coding Challenge Submissions
+The wonderful submissions from some of the Zero-to-Mastery students on the fifth coding challenge. There are some great submissions:
+
+huntershinn#7115
+https://memphis-local-events.herokuapp.com/
+
+The24thDS#6523
+https://the24thds.github.io/thriving-cities-events/
+
+pixzels#0150
+https://pixzels.github.io/ThrivingCities
+
+Carla Monroe#7612
+https://csmonroe.github.io/
+
+NoodLee#2609
+https://here2huynh.github.io/Thriving-Cities/
+
+smarius#6698
+https://smarius01.github.io/eventslist/
+
+saurav ganguly#7506
+https://webdevsaurav.github.io/ThrivingCitiesWebsite/
+
+mariana0pachon#6145
+https://mariana0pachon.github.io/challenge5/
+
+Thijs#9132
+https://thijsnijhof.github.io/thrivingcities-events/
+
+Daenz#6595
+https://github.com/Daenza/Thrive-MVP
+
+Daenz#6595
+https://daenza.github.io/Thrive-MVP/
+
+sawirricardo#6351
+https://memphishub-rhdswlghsg.now.sh/
+
+Divyateja#9490
+https://divyateja04.github.io/cc5/
+
+gurpreet kaur#6379
+https://saurav1993.github.io/thrivingCities/
+
+manjumg23#0692
+https://github.com/manjumg23/events
+
+manjumg23#0692
+https://manjumg23.github.io/
+
+eneax#6311
+https://tranquil-shore-37678.herokuapp.com/
+
+surbhi#8887
+https://boney882000.github.io/thrivingCities/
+
+Arshi#8718
+https://webpagearshi.github.io/ThrivingCities-Memphis-Events/
+
+Tikhav#0642
+https://tdesbordes.github.io/memphis-react/
+
+Louise#6745
+https://louisevdb84.github.io/events/
+
+Samir#0141
+https://samirjouni.github.io/ThrivingCities/
+
+Jiwon#3480
+https://thrive.jiwon.me/
+
+Puja#2455
+https://pgakk.github.io/ThrivingCities/
+
+CuCu99#9133
+https://thrivingevents.herokuapp.com/
+
+spacefishn7#9687
+https://fischbot.github.io/memphis/
+
+realmohsin#5256
+https://realmohsin.github.io/
+
+Chantal#0804
+https://chantallexandra.github.io/thriving-cities/index.html#
+
+NickP#2706
+https://github.com/NickPax/memphis-events
+
+Jacinto Design#5843
+https://jacintodesign.github.io/coding-challenge-5/
+
+realmohsin#5256
+https://github.com/realmohsin/realmohsin.github.io
+
+PaulNoir#3294
+http://paulrods.com/cc5/
+
+this.isMike()#7425
+https://thrivingcitiesevents.surge.sh/
+
+yurii#1720
+https://yuriian.github.io/thriving-cities/
+
+ankuranant99#6968
+https://anantankur.github.io/thriving/
+
+deluxboi#6555
+https://deluxscript.github.io/thrivingcities/
+
+JustinTime42#0712
+https://github.com/JustinTime42/thriving-cities-events
+
+jSwtch#9758
+https://heuristic-lalande-8c9f8f.netlify.com/
 
 ## What is the Challenge?
 
